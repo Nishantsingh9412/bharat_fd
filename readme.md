@@ -112,7 +112,7 @@ curl http://localhost:8081/api/faqs/?lang=hi
 - **ESLint Compliance**: Enforced using `eslint`.
 
 ## Author
-- **Your Name**  
+- **Nishant Singh**  
 - GitHub: [Nishantsingh9412](https://github.com/Nishantsingh9412/)
 
 ---
