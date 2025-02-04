@@ -2,7 +2,7 @@
 
 ### Project Link :- https://bharatfd.azurewebsites.net/
 ---
-### Postman Documentation Link :- https://documenter.getpostman.com/view/23888366/2sAYX5LNmK(onl)
+### Postman Documentation Link :- https://documenter.getpostman.com/view/23888366/2sAYX5LNmK
 ---
 ## Overview
 This project is a **Node.js-based REST API** for managing **FAQs with multilingual support**. It includes a **WYSIWYG editor**, **caching with Redis**, **automated translations**, and follows best practices for code quality, testing, and version control.
