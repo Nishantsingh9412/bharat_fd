@@ -1,6 +1,8 @@
 # Multilingual FAQ API
 
-### Project Link :- https://bharatfd.azurewebsites.net/
+### Project Link :- https://bharatfd.azurewebsites.net/ 
+# (Project Link ----> no longer working as deployment charges are being deducted)
+mail me if you want to check 
 ---
 ### Postman Documentation Link :- https://documenter.getpostman.com/view/23888366/2sAYX5LNmK
 ---
