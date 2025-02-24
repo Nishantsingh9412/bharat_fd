@@ -2,7 +2,7 @@
 
 ### Project Link :- https://bharatfd.azurewebsites.net/ 
 # (Project Link ----> no longer working as deployment charges are being deducted)
-mail me if you want to check 
+mail me if you want to check  nishantsingh9412ns@gmail.com
 ---
 ### Postman Documentation Link :- https://documenter.getpostman.com/view/23888366/2sAYX5LNmK
 ---
